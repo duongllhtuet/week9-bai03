@@ -20,6 +20,4 @@
 chmod +x run.sh
 ./run.sh
 ```
-
-I wanna test
-Anh do mi xi na na 
+annananannanananan 
